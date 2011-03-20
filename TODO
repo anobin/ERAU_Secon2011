@@ -1,0 +1,27 @@
+[TODO]
+- Interface with camera
+	- start to use for LED detection
+- determine error problem with motor controller
+- test line following system
+- develop sampling equation for handling sporadic inputs
+	- variable number of samples with outlier elimination
+- develop strategy for navigating center 4-way turn
+- Develop strategy for determining victims position in room
+	- EM detection, LED detection, and IR's can be used
+- Develop strategy for leaving room
+	-Probably using IR's to get back on the outside line
+- create computer side controller for testing
+- interface with EM field detector
+- interface with gyro
+	- can be used to help turn
+- introduce hazard avoidance/handling
+	- using varying height IR sensors
+- store constants in eeprom
+- add debug operating mode where eeprom constants can
+  be programmed and robot can be manually driven
+- combine computer-side and avr-side processes to create test case suite
+
+
+[DELAYED]
+- order speaker
+- interface with speaker

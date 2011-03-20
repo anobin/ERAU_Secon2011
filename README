@@ -1,0 +1,4 @@
+Software used by the Embry-Riddle Aeronautical University (ERAU) team for the IEEE SoutheastCon 2011 Student Hardware Competition in Nashville, TN.
+
+[Environment]
+Written in C++ for Atmel ATmega processors using the Arduino/Wiring libraries. Currently uses the Arduino IDE to compile and program the microcontroller. MrRoboto is the project name for the source in the Arduino IDE.
